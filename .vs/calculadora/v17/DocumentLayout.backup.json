@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\C#\\calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE833E5-B5AC-4987-BCE2-A498CDC66A05}|calculadora\\calculadora.csproj|c:\\users\\gabriel\\desktop\\c#\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE833E5-B5AC-4987-BCE2-A498CDC66A05}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\C#\\calculadora\\calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\C#\\calculadora\\calculadora\\Program.cs*",
+              "RelativeToolTip": "calculadora\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:47:13.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
